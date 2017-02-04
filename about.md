@@ -6,9 +6,6 @@ feature_image: feature-samyak
 author_avatar:
 author_name: Samyak Choudhary
 title: About Samyak
-fav_posts:
-  post_1 : ['Rebels - Who they are and Why you need them','rebels-who-they-are-and-why-you-need-them/', 'Tired of tolerating rebels? Sorry to say but you can't do without them.']
-  post_2 : ['We All Think', 'We-All-Think/', 'Why can't other people just think? Maybe they do, just not the way you do.']
 ---
 
 > “Follow the path of the unsafe, independent thinker. Expose your ideas to the dangers of controversy. Speak your mind and fear less the label of 'crack-pot' than the stigma of conformity. And on issues that seem important to you, stand up and be counted at any cost.”
