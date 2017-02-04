@@ -1,0 +1,27 @@
+# Build settings
+markdown: kramdown
+
+# Site settings
+title: Samyak Choudhary
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "samyakchoudhary.com" # the base hostname & protocol for your site
+enable_retina: false
+permalink: :title
+
+email: samyakchoudhary@gmail.com
+facebook  : http://facebook.com/samyak.choudhary.355
+twitter   : https://twitter.com/
+instagram : http://instagram.com/samyak.choudhary
+github    : http://github.com/samyak45
+linkedin  : https://www.linkedin.com/in/samyakchoudhary/
+bio       : "IIT Roorkee Computer Science Graduate. Aspiring Entrepreneur. ENTP."
+description: > # Samyak is an IIT Roorkee, Computer Science graduate and an aspiring entrepreneur.
+
+nav_list:
+  Home : ['Home', '/', 'fa-home']
+  About : ['About', '/about', 'fa-anchor']
+
+single_footer: '<p>Anything is possible as long as you keep working at it and don't back down.</p>'
+footer_links:
+    About: ['About', '/about']

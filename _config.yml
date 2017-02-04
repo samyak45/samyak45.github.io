@@ -1,0 +1,19 @@
+# Site settings
+title: samyakchoudhary.com
+email: samyakchoudhary@gmail.com
+description: Computer Science, IIT Roorkee, graduate. Aspiring Entrepreneur. ENTP.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "samyakchoudhary.com" # the base hostname & protocol for your site
+enable_retina: false
+permalink: :title
+nav_list:
+  Home : ['Home', '/', 'fa-home']
+  About : ['About', '/about', 'fa-anchor']
+
+single_footer: '<a href="/">latest posts</a></p>'
+footer_links:
+    About: ['About', '/about']
+Home : ['Home', '/']
+
+# Build settings
+markdown: kramdown
