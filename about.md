@@ -26,10 +26,10 @@ Started personal blog to share thoughts and experiences along the path to acquir
 
 Contact me at <a href = "mailto:samyakchoudhary@gmail.com">samyakchoudhary@gmail.com</a>.
 
-Also, find me here:
+Also find me here:
 <a href = "https://www.linkedin.com/in/samyakchoudhary/">LinkedIn</a>,
 <a href = "http://facebook.com/samyak.choudhary.355">Facebook</a>,
 <a href = "http://instagram.com/samyak.choudhary/">Instagram</a>, and 
-<a href = "https://www.quora.com/profile/Samyak-Choudhary">Quora</a>
+<a href = "https://www.quora.com/profile/Samyak-Choudhary">Quora</a>.
 
 
