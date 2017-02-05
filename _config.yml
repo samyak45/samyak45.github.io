@@ -9,11 +9,12 @@ permalink: :title
 nav_list:
   Home : ['Home', '/', 'fa-home']
   About : ['About', '/about', 'fa-user']
+  Email : ['Email','mailto:samyakchoudhary@gmail.com', 'fa-envelope']
   LinkedIn : ['LinkedIn','https://www.linkedin.com/in/samyakchoudhary/', 'fa-linkedin']
   Facebook : ['Facebook','http://facebook.com/samyak.choudhary.355', 'fa-facebook']
   Instagram : ['Instagram','http://instagram.com/samyak.choudhary/', 'fa-instagram']
-  Quora : ['Quora','https://www.quora.com/profile/Samyak-Choudhary', 'fa-quora']
-  Email : ['Email','mailto:samyakchoudhary@gmail.com', 'fa-envelope']
+  Quora : ['Quora','https://www.quora.com/profile/Samyak-Choudhary', 'fa-anchor']
+
 
 
 single_footer: '<a href="/">latest posts</a></p>'
