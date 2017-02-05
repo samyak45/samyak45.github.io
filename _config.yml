@@ -9,6 +9,7 @@ permalink: :title
 nav_list:
   Home : ['Home', '/', 'fa-home']
   About : ['About', '/about', 'fa-anchor']
+  Facebook : ['Facebook','http://facebook.com/samyak.choudhary.355', 'fa-anchor']
 
 single_footer: '<a href="/">latest posts</a></p>'
 footer_links:
