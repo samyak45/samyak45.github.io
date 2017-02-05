@@ -24,4 +24,16 @@ Utilized college to gain blend of technical acumen and leadership skills by part
 
 Started personal blog to share thoughts and experiences along the path to acquiring knowledge as I keep exploring, questioning and searching to make this a more lively planet. 
 
-Feel free to contact me <a href = "mailto:samyakchoudhary@gmail.com">samyakchoudhary@gmail.com</a>.
+Contact me at <a href = "mailto:samyakchoudhary@gmail.com">samyakchoudhary@gmail.com</a>.
+
+Also, find me here:
+
+<a href = "https://www.linkedin.com/in/samyakchoudhary/">LinkedIn</a>.
+
+<a href = "http://facebook.com/samyak.choudhary.355">Facebook</a>.
+
+<a href = "http://instagram.com/samyak.choudhary/">Instagram</a>.
+
+<a href = "https://www.quora.com/profile/Samyak-Choudhary">Quora</a>.
+
+
