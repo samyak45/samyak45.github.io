@@ -39,7 +39,7 @@ Don't laugh at me. I had watched Iron Man movie (I) few days back and the geek-c
 
 ![Iron Man Augemted Reality & JARVIS](http://samyakchoudhary.com/img/iron-man-jarvis-augmented-reality.jpg){: .center-image }
 
-That still looks cool, doesn't it?
+(That still looks cool, doesn't it?)
 
 >The biggest irony of learning to solve problems is that often in the process we forget the problem itself.
 
@@ -47,7 +47,7 @@ The years between junior high school and end of college are years of a plethora 
 
 As kids, we might dream of living and creating a fantasy, utopian world having wonders such as intelligent robots, flying cars, virtual reality games, space travel (maybe even time travel), teleportation, super human abilities (think x-men). A world free from diseases, global warming, pollution, and other environmental problems. A world free from greed, hunger, (personal/physical/political/social/cultural)boundaries, politics and religion - a place where everyone lives in peace and harmony. A united society where people work together towards making the world a better place and people are not caught up in fulfilling their cynical objectives.
 
-But, with the advent of youth, the allurement of a hedonistic life accompanied with gross bank balances, private jets, and humangous mansions becomes overpowering and the yearning to fill in the void created by a lost childhood zest lets the enticement sneak in unopposed. Oh and by-the-way the life couse marked solely by materialistic ambitions isn't erroneous afterall it is backed by strong social proof (sarcasm intended).
+But, with the advent of youth, the allurement of a hedonistic life accompanied with gross bank balances, private jets, and humangous mansions becomes overpowering and the yearning to fill in the void created by a lost childhood zest lets the enticement sneak in unopposed. (Oh and by-the-way the life couse marked solely by materialistic ambitions isn't erroneous afterall it is backed by strong social proof (sarcasm intended).)
 
 The voice of the dreamer inside us is further squelched with the added responsibilities as we progress further through the ardous journey that we call "life" and gets lost in the clamor of daily chores.
 
@@ -55,13 +55,15 @@ Eventually, mediocity and the feeling of "the world is too big and challenging f
 
 Formal education is imperative. However, our current education system is inadequate when it comes to helping people nurture a vision of their own. It teaches us how to convert our vision into a reality (It has taught me AI algorithms, data science, operating systems, etc) but the percentage of people left with dreams to build on completing formal education is close to nil.
 
-Some of us (the "lost" dreamers ?) manage to not lose sight of the dreams they wished to build when young but alas, these are the same people who are uninfluenced by *cruddy* drivers such as grades, and job. Unable to relate the process ('HOW') to their vision ('WHAT'), they often fall behind in our regimented system and fail to acquire the requisite skillset. (Advise to such co-dreamers : trust the process!)
+Some of us, the "lost" dreamers, manage to not lose sight of the dreams they wished to build when young but alas, these are the same people who are uninfluenced by *cruddy* drivers such as grades, and job. Unable to relate the process ('HOW') to their vision ('WHAT'), they often fall behind in our regimented system and fail to acquire the requisite skillset. (Advise to such co-dreamers : trust the process!)
 
-Opposed to the visionaries, are the pragmatic people. Driven by short-term goals, fear and peer competition they become experts in their domain but the lack of vision leaves them vying for limited resources over conflicting goals. The close competition eventually wears them out and being coerced into a lackadaisical life in a dead-end career becomes inevitable.
+Opposed to the visionaries, are the pragmatic people. Driven by short-term goals, fear and peer competition they often become experts in their domain but the lack of vision leaves them vying for limited resources over conflicting goals. The close competition eventually wears them out and being coerced into a lackadaisical life in a dead-end career becomes inevitable.
 
-I can sense some scorching readers thinking "itni hi dikkt h to tu khud hi koi trika btade is samasya se bachne ka" {if you have so much problem why don't you yourself come up with some solution}. (Note the 'khud hi' {yourself}). (Unfortunately) Like all problems I ponder about (and have either written or plan to write an idiosyncratic blogpost about), this too requires a cultural shift. It is not a problem of a single individual or a small group of invdividuals can solve. It requires a change in our belief system, a change in our attitudes, a change in our everyday conversations and a change in our what we value in life.
+I can sense some scorching readers thinking "itni hi dikkt h to tu khud hi koi trika btade is samasya se bachne ka" {if you have so much problem why don't you yourself come up with some solution}. (Note the 'khud hi' {yourself}). 
 
-Yeah, yeah all that sounds like something worthwhile but dude, everyone needs to earn a living, right? Yes, we need money to live a comfortable and promising life however, we need to [transform our relationship with money](https://ymoyl.wordpress.com/summary-of-your-money-or-your-life/). We need to get away from our consumerist culture. Rather than viewing money as an endproduct or a way to achieve respectable societal status and to acquire ostentatious material possessions, we need to view money for what it is - a tool to lead a happy, comfortable, and fulfilling life that can be put to use to build our dreams. 
+Unfortunatel, like all problems I ponder about (and have either written or plan to write an idiosyncratic blogpost about), this requires a cultural shift. It is not a problem of a single individual or a small group of invdividuals can solve. It requires a change in our belief system, a change in our attitudes, a change in our everyday conversations and a change in our what we value in life.
+
+Yeah, yeah all that sounds like something worthwhile but dude, everyone needs to earn a living, right? Yes, we need money to live a comfortable and promising life. However, we need to [transform our relationship with money](https://ymoyl.wordpress.com/summary-of-your-money-or-your-life/). We need to get away from our consumerist culture. Rather than viewing money as an endproduct or a way to achieve respectable societal status and to acquire ostentatious material possessions, we need to view money for what it is - a tool to lead a happy, comfortable, and fulfilling life that can be put to use to build our dreams. 
 
 (I will advice you to read the book ["Your Money or Your Life"](https://ymoyl.wordpress.com/summary-of-your-money-or-your-life/) and the concepts of 'Financial Intelligence', 'Financial Integrity', and 'Financial Independence' *might* change your perception of money.) 
 
