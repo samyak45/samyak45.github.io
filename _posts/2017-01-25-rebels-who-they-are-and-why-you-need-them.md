@@ -10,7 +10,7 @@ show_avatar : true
 read_time : 10
 feature_image: feature-rebel
 show_related_posts: false
-square_related: hans-solo
+square_related: harry-potter-rebel
 description: "Tired of tolerating rebels? Sorry to say but you can't do without them."
 published: true
 ---
