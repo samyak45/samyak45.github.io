@@ -7,7 +7,7 @@ author_name : Samyak Choudhary
 author_url : /about
 author_avatar: samyak
 show_avatar : true
-read_time : 15
+read_time : 6
 feature_image: Deep-Thinker
 show_related_posts: false
 square_related: Deep-Thinker

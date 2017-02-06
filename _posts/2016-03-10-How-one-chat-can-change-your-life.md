@@ -7,7 +7,7 @@ author_name : Samyak Choudhary
 author_url : /about
 author_avatar: samyak
 show_avatar : true
-read_time : 20
+read_time : 5
 feature_image: girlintheiit
 show_related_posts: false
 square_related: girlintheiit
