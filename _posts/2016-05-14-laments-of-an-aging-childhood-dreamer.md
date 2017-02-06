@@ -8,7 +8,7 @@ author_name : Samyak Choudhary
 author_url : /about
 author_avatar: samyak
 show_avatar : true
-read_time : 30
+read_time : 5
 feature_image: child-superhero
 show_related_posts: false
 square_related: child-superhero
