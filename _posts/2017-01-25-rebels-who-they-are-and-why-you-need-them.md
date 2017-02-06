@@ -19,7 +19,7 @@ Do I really need to tell you who these conceited, egotistical, mutinous troublem
 
 (Considering the rising unrest in this world, I can only assume that the population of rebels is on a rise. Or probably it's just that like attracts like and without my knowledge, I have recently been pushed into the 'Rebel Worldcup'!)
 
-Who are rebels? Think these-
+Who are rebels? Think Arya Stark, Captain Jack Sparrow, Harry Potter, Hans Solo and Dr. House.
 
 ![Jack Sparrow](http://samyakchoudhary.com/img/jack-sparrow_trustDishonesty.jpg){: .center-image }
 
