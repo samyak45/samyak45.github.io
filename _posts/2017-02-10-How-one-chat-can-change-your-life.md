@@ -15,27 +15,27 @@ square_related: girlintheiit
 published: true
 ---
 
->"There is one thing worse than dying. It is living with a lost reputation." - Samyak Choudhary
+>"There are things worse than dying. One of them is living with a lost reputation." - Samyak Choudhary
 
-(I don't believe in revenge but I do believe in honest expression. And above all, I believe everyone deserves a right to say.)
+[//]: <> (I don't believe in revenge but I do believe in honest expression. And above all, I believe everyone deserves a right to say.)
 
-Another sleepless night and like most nights these days, my nostalgic brain is running through all the memories I have made during the course of last three and a half years in college. Browsing through all the diverse memories, my mind gets stuck on the memory of a girl, sorry, the girl, who in pursuit of some fame and in an attempt to feed her pretentious nature, altered my life drastically. Or should I say, almost ended my life tragically.
+Another sleepless night and like most nights these days, my nostalgic brain is running through all the memories I have made during the course of last three and a half years in college. Browsing through all the diverse memories, my mind gets stuck on the memory of a girl, sorry, the girl, who in pursuit of some fame and in an attempt to feed her pretentious nature, altered my life drastically. Or should I say, almost ended my life tragically?
 
-Social acceptance is a weird inordinate desire innate to all beings. With its users constantly seeking more likes, more comments, more shares, social media only highlights this fact. What we often fail to notice in this never-ending race to be the most "liked" person, are the repercussions our actions (posts/ shares/ comments) might have on others. And these unthoughtful actions can cut deep, very very deep, when the sword falls on an "innocent" soul.
+Social acceptance is a weird inordinate desire innate to all beings. The neverending pursuit for more likes, more comments, and more shares on social media highlights this. What goes unnoticed in this never-ending race to be the most "liked" person, are the repercussions our actions (posts/ shares/ comments) might have on others. And these unthoughtful actions can cut deep, very very deep, when the sword falls on an "innocent" soul.
 
-What is meant by 'innocent' is questionable. Is the overly competitive individual who sends a random stranger some flirtatious messages (that too ones found by Googling) to fight being called a douche by his friends, innocent? Is the lonely eccentric person looking for someone to laugh with and tries playing a prank online, innocent? Probably not. But who are you to decide?
+What is meant by 'innocent' is questionable. Is the overly competitive individual who sends a random stranger some flirtatious messages (that too ones found by Googling) to fight being called timid by his friends, innocent? Is the lonely eccentric person looking for someone to laugh with and tries playing a prank online, innocent? Maybe, maybe not.
 
 It's a complex world we live in. A world shaped by social networks. A world where everyone has become a jury. 
 
-The feeling of passing our verdict (in the form of comments and private messages), based on a 30-second read of some post, is so elating. The immense satisfaction we get when we prove someone as wrong invigorates our self-righteousness. The instant gratification of stamping on another person, putting whatever non-socially acceptable labels we can think of and continue scrolling down our news feed. I find relief in knowing that our actual courts still aren't that fast-track.
+The feeling of passing our verdict (in the form of comments and private messages), based on a 30-second read of some post, is so elating. The immense satisfaction we get when we prove someone as wrong invigorates our self-righteousness. The instant gratification of stamping on another person, putting whatever non-socially acceptable labels we can think of and then scrolling down our news feed. I find relief in knowing that our actual courts still aren't that fast-track.
 
 "People judge you." - The de-factoness of this assertion strikes you when the judgment of some inadvertent mistake comes howling back to you from all corners, leaving you aghast. 
 
-Though, I must claim that this assertion is wrong. It is wrong not because it is not true but because it is incomplete. A more coherent statement would be - 
+Though, I must claim that this assertion isn't complete. A more coherent statement-
 
 >"People judge you and their judgments are shallow. But these shallow judgments can leave even the deepest parts of your soul quivering."
 
-The people around us, even our closest friends, are mysterious to us. Their characters have unfathomable secret recesses that they never reveal. This unknowableness of other people is disturbing to us. So, we prefer to ignore this fact, and judge people on their appearances, on what is most visible to us - words, actions, gestures, looks. And these fleeting extraverted encounters become the barometer of all judgments in the social realm.
+People around us, even our closest friends, are mysterious to us. Their characters have unfathomable secret recesses that they never reveal. This unknowableness of other people is disturbing to us. So, we prefer to ignore this fact, and judge people on their appearances, on what is most visible to us - words, actions, gestures, looks. And these fleeting extraverted encounters become the barometer of all judgments in the social realm.
 
 ![haider-bang-bang](http://samyakchoudhary.com/img/haider-bang-bang-facebook.jpg){: .center-image }
 
@@ -45,7 +45,7 @@ It is very easy to tarnish other people's reputation. Sow the seeds of incrimina
 
 ![Facebook Like](http://samyakchoudhary.com/img/like-facebook-hand.jpg){: .center-image }
 
-The above efforts work like a charm especially if your victim is a blank-slated introvert who is a stranger to even the closest of his friends. Don't be surprised when those who have known the target for years also start believing your version of him/her. And thanks to the social proof you would have amassed by now supporting your claim, the dichotomy between the victim's true self and your broached version will no longer be a barrier.
+The above efforts work like a charm especially if your victim is a blank-slated introvert who is a stranger to even the closest of his friends. Don't be surprised when those who have known the target for years also start believing your version of him/her. And if you managed to gain sufficient social proof, the dichotomy between the victim's true self and your broached version will no longer be a barrier.
 
 If you have been sufficiently successful till this step, as a side-effect, the victim's friends (if any) would have already left him/her or would be on the verge of leaving. Who likes to move around with jerks, imps, and losers? After all, people are judged based on their friends too!
 
@@ -67,7 +67,6 @@ The vivid picture of me standing on the fifth-floor balcony ready to take the es
 >"You may end your life but your sacrifice will have little impact. People will mention you for next few days and then you will be forgotten. And you will be remembered not as someone who was wronged, but as one who gave up. If you want that, then go ahead. I am not going to stop you. But, if you want to be heard, if your want your plight to be seen, if you want your voice to fall on the deaf ears of those who have tormented you, learn to speak the language of the world. And there is only one language that the world listens to - the language of success. There is no place anywhere for people who fail and give up."
 
 --
+Interested in reading the other side of the story? Check out [the girl's blog](http://girlintheiit.blogspot.in/2014/06/from-who-to-hey.html).
 
 Wish to know more about what can happen when social media shaming spirals out of control? Watch the TED Talk [How one tweet can ruin your life](https://www.youtube.com/watch?v=wAIP6fI0NAI) by Jon Ronson. In a jaw-dropping story of how one unfunny tweet ruined a woman's life and career, Ronson shows how online commenters can end up behaving like a baying mob — and says it's time to rethink how we interact online. 
-
-Interested in reading the other side of the story? Check out [the girl's blog](http://girlintheiit.blogspot.in/2014/06/from-who-to-hey.html).
