@@ -12,7 +12,7 @@ read_time : 10
 feature_image: girlintheiit
 show_related_posts: false
 square_related: girlintheiit
-published: true
+published: false
 ---
 
 >"There are things worse than dying. One of them is living with a lost reputation." - Samyak Choudhary
@@ -21,7 +21,7 @@ published: true
 
 Another sleepless night and like most nights these days, my nostalgic brain is running through all the memories I have made during the course of last three and a half years in college. Browsing through all the diverse memories, my mind gets stuck on the memory of a girl, sorry, the girl, who in pursuit of some fame and in an attempt to feed her pretentious nature, altered my life drastically. Or should I say, almost ended my life tragically?
 
-Before you read, for those of you haven't already read this chat two years ago:
+For those who didn't read this three years ago:
 
 ![The Chat](http://samyakchoudhary.com/img/chat-with-DM.jpg){: .center-image }
 
@@ -49,7 +49,7 @@ It is very easy to tarnish other people's reputation. Sow the seeds of incrimina
 
 ![Facebook Like](http://samyakchoudhary.com/img/like-facebook-hand.jpg){: .center-image }
 
-The above efforts work like a charm especially if your victim is a blank-slated introvert who is a stranger to even the closest of his friends. Don't be surprised when those who have known the target for years also start believing your version of him/her. Managed to gain sufficient social proof and the dichotomy between the victim's true self and your broached version will no longer be a barrier. Doesn't matter if people supporting you have never known the person being judged so ruthlessly.
+The above efforts work like a charm especially if your victim is a blank-slated introvert who is a stranger to even the closest of his friends. Don't be surprised when those who have known the target for years also start believing your version of him/her. Manage to gain sufficient social proof and the dichotomy between the victim's true self and your broached version will no longer be a barrier. Doesn't matter if people supporting you have never known the person being judged so ruthlessly.
 
 If you have been sufficiently successful till this step, as a side-effect, the victim's friends (if any) would have already left him/her or would be on the verge of leaving. Who likes to move around with jerks, imps, and losers? After all, people are judged based on their friends too!
 
