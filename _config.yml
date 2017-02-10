@@ -6,6 +6,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "samyakchoudhary.com" # the base hostname & protocol for your site
 enable_retina: false
 permalink: :title
+thought: Writing the story of your life? Don't let anyone else hold the pen.
 nav_list:
   Home : ['Home', '/', 'fa-home']
   About : ['About', '/about', 'fa-user']
