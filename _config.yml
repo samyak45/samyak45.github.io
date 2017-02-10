@@ -3,7 +3,7 @@ title: samyakchoudhary.com
 email: samyakchoudhary@gmail.com
 description: Computer Science, IIT Roorkee, graduate. Aspiring Entrepreneur. ENTP.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "samyakchoudhary.com" # the base hostname & protocol for your site
+url: http://samyakchoudhary.com/
 enable_retina: false
 permalink: :title
 thought: Writing the story of your life? Don't let anyone else hold the pen.
