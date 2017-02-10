@@ -90,10 +90,6 @@ But, if you want to be heard, if your want your plight to be seen, if you want y
 
 --
 
-Don't be swayed into believing I was prosecuted wrongly because in the "ideal" court of <>, judgements are not passed based on rhetoric of the accused. They are passed based on factual evidence and here is your edivence - 
-
-<the chat screenshots>
-
 Interested in reading the <one who complained>'s arguments? Check out her blog - []().
 
 Wish to know more about what can happen when social media shaming spirals out of control? Watch this video - 
