@@ -49,7 +49,7 @@ It is very easy to tarnish other people's reputation. Sow the seeds of incrimina
 
 ![Facebook Like](http://samyakchoudhary.com/img/like-facebook-hand.jpg){: .center-image }
 
-The above efforts work like a charm especially if your victim is a blank-slated introvert who is a stranger to even the closest of his friends. Don't be surprised when those who have known the target for years also start believing your version of him/her. And if you managed to gain sufficient social proof, the dichotomy between the victim's true self and your broached version will no longer be a barrier.
+The above efforts work like a charm especially if your victim is a blank-slated introvert who is a stranger to even the closest of his friends. Don't be surprised when those who have known the target for years also start believing your version of him/her. Managed to gain sufficient social proof and the dichotomy between the victim's true self and your broached version will no longer be a barrier. Doesn't matter if people supporting you have never known the person being judged so ruthlessly.
 
 If you have been sufficiently successful till this step, as a side-effect, the victim's friends (if any) would have already left him/her or would be on the verge of leaving. Who likes to move around with jerks, imps, and losers? After all, people are judged based on their friends too!
 
@@ -66,11 +66,13 @@ Your victim must be near the climax now. Any suggestions for a dramatic ending? 
 
 ![Suicide Jump](http://samyakchoudhary.com/img/suicide-jump.jpg){: .center-image }
 
-The vivid picture of me standing on the fifth-floor balcony ready to take the escape plunge and my friend's desperate attempts to stop me is reforming in my head. His words that made me change my decision, echo:
+The vivid picture of me standing on the fifth-floor balcony ready to take the escape plunge and my friend's desperate attempts to stop me echo back in my head:
 
 >"You may end your life but your sacrifice will have little impact. People will mention you for next few days and then you will be forgotten. And you will be remembered not as someone who was wronged, but as one who gave up. If you want that, then go ahead. I am not going to stop you. But, if you want to be heard, if your want your plight to be seen, if you want your voice to fall on the deaf ears of those who have tormented you, learn to speak the language of the world. And there is only one language that the world listens to - the language of success. There is no place anywhere for people who fail and give up."
 
+
 --
+
 
 Interested in reading the other side of the story? Check out [the girl's blog](http://girlintheiit.blogspot.in/2014/06/from-who-to-hey.html).
 
