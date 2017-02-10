@@ -21,11 +21,15 @@ published: true
 
 Another sleepless night and like most nights these days, my nostalgic brain is running through all the memories I have made during the course of last three and a half years in college. Browsing through all the diverse memories, my mind gets stuck on the memory of a girl, sorry, the girl, who in pursuit of some fame and in an attempt to feed her pretentious nature, altered my life drastically. Or should I say, almost ended my life tragically?
 
+Before you read, for those of you haven't already read this chat two years ago:
+
+![The Chat](http://samyakchoudhary.com/img/chat-with-DM.jpg){: .center-image }
+
 Social acceptance is a weird inordinate desire innate to all beings. The neverending pursuit for more likes, more comments, and more shares on social media highlights this. What goes unnoticed in this never-ending race to be the most "liked" person, are the repercussions our actions (posts/ shares/ comments) might have on others. And these unthoughtful actions can cut deep, very very deep, when the sword falls on an "innocent" soul.
 
-What is meant by 'innocent' is questionable. Is the overly competitive individual who sends a random stranger some flirtatious messages (that too ones found by Googling) to fight being called timid by his friends, innocent? Is the lonely eccentric person looking for someone to laugh with and tries playing a prank online, innocent? Maybe, maybe not.
+What is meant by 'innocent' is questionable. Is the overly competitive individual who sends a random stranger some flirtatious messages (that too ones found by Googling) to fight being called timid by his friends, innocent? Is the lonely eccentric person looking for someone to laugh with and tries playing a prank online, innocent? Maybe. maybe not.
 
-It's a complex world we live in. A world shaped by social networks. A world where everyone has become a jury. 
+It's a complex world we live in. A world shaped by social networks. A world where everyone likes to become a jury. 
 
 The feeling of passing our verdict (in the form of comments and private messages), based on a 30-second read of some post, is so elating. The immense satisfaction we get when we prove someone as wrong invigorates our self-righteousness. The instant gratification of stamping on another person, putting whatever non-socially acceptable labels we can think of and then scrolling down our news feed. I find relief in knowing that our actual courts still aren't that fast-track.
 
@@ -67,6 +71,7 @@ The vivid picture of me standing on the fifth-floor balcony ready to take the es
 >"You may end your life but your sacrifice will have little impact. People will mention you for next few days and then you will be forgotten. And you will be remembered not as someone who was wronged, but as one who gave up. If you want that, then go ahead. I am not going to stop you. But, if you want to be heard, if your want your plight to be seen, if you want your voice to fall on the deaf ears of those who have tormented you, learn to speak the language of the world. And there is only one language that the world listens to - the language of success. There is no place anywhere for people who fail and give up."
 
 --
+
 Interested in reading the other side of the story? Check out [the girl's blog](http://girlintheiit.blogspot.in/2014/06/from-who-to-hey.html).
 
 Wish to know more about what can happen when social media shaming spirals out of control? Watch the TED Talk [How one tweet can ruin your life](https://www.youtube.com/watch?v=wAIP6fI0NAI) by Jon Ronson. In a jaw-dropping story of how one unfunny tweet ruined a woman's life and career, Ronson shows how online commenters can end up behaving like a baying mob — and says it's time to rethink how we interact online. 
