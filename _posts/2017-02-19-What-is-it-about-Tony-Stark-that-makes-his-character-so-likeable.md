@@ -9,11 +9,13 @@ author_url : /about
 author_avatar: samyak
 show_avatar : true
 read_time : 3
-feature_image: 
+feature_image: iron-man-tony-stark
 show_related_posts: false
-square_related: tony-stark.jpeg
+square_related: tony-stark
 published: true
 ---
+
+What makes the rakish, supercilious, and pompous character one of the most liked characters in Hollywood?
 
 **Tony Stark is a brilliant comic character.**
 
@@ -31,6 +33,8 @@ Take Sheldon Cooper in The Big Bang Theory for example. He has a perspective on 
 
 One of the keys to writing good comedy is exaggeration, so when you're writing a comic character, whatever their comic perspective is, it's always best to take that perspective to the extreme.
 
+![Tony Stark](http://samyakchoudhary.com/img/the-supercilious-tony-stark.jpg){: .center-image }
+
 Tony Stark's perspective is "I am the most badass, most intelligent, most epic human being who's ever existed and no one can match me." No matter what comes his way, even if he's abducted by terrorists in the desert, this paradigm lives on. It is dauntless. It defines him, and it's interesting to see how his perspective interacts with the real world.
 
 Once your character has a strong comic perspective established, the next step is to give the character **flaws**. Flaws allow your audience to put distance between themselves and the character so they can watch the interplay between the character and reality, rather than getting caught up in the character. They can laugh when bad things happen to the character.
@@ -45,4 +49,4 @@ That's why we find Tony Stark to be such a compelling character. He's well-writt
 
 --
 
-The above content has been taken from a ![Quora answer](https://www.quora.com/What-is-it-about-Tony-Stark-that-makes-his-character-so-likeable) by ![Howie Reith](https://www.quora.com/profile/Howie-Reith).
+Source: ![Quora answer](https://www.quora.com/What-is-it-about-Tony-Stark-that-makes-his-character-so-likeable) by ![Howie Reith](https://www.quora.com/profile/Howie-Reith).
