@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "What is it about Tony Stark that makes his character so likeable?""
+title:  "What is it about Tony Stark that makes his character so likeable?"
+description: "The creation of Tony Stark as a brilliant comic character."
 date: 2017-02-19
 categories: Quora
 author_name : Samyak Choudhary
@@ -11,7 +12,6 @@ read_time : 3
 feature_image: 
 show_related_posts: false
 square_related: tony-stark.jpeg
-description: "The creation of Tony Stark as a brilliant comic character"
 published: true
 ---
 

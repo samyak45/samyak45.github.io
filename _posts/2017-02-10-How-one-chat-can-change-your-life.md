@@ -3,7 +3,7 @@ layout: post
 title:  "How one chat can change your life"
 description: "There is one thing worse than dying. It is living with a lost reputation."
 date: 2017-02-10
-categories: My_Life
+categories: MyLife
 author_name : Samyak Choudhary
 author_url : /about
 author_avatar: samyak

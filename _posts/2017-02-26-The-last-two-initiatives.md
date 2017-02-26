@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "The Last Two Initiatives"
+description: "My last two initiatives to revamp the college culture."
 date: 2017-02-25
 categories: MyLife
 author_name : Samyak Choudhary
@@ -11,8 +12,7 @@ read_time : 15
 feature_image: 
 show_related_posts: false
 square_related: 
-description: "My last two initiatives to revamp the college culture."
-published: true
+published: false
 ---
 
 Both initiatives spring from what has appalled me since last 4 years of college. In fact, since school life. Conformism in people, their relauctance in trying out new things and their not taking bold initiatives to solve problems.
