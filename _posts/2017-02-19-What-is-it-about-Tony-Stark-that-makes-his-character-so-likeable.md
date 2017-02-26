@@ -15,11 +15,7 @@ square_related: tony-stark
 published: true
 ---
 
-What makes the rakish, supercilious, and pompous character one of the most liked characters in Hollywood?
-
-**Tony Stark is a brilliant comic character.**
-
-By that I don't mean comic as in comic book - I mean comic as in comedy, and yes, Tony Stark is a "comic" character.
+Tony Stark is a brilliant comic character. By that I don't mean comic as in comic book - I mean comic as in comedy, and yes, Tony Stark is a "comic" character.
 
 When you are writing comedy, there is this concept known as the "comic gap." It is the difference between the world as it actually exists and the world as it is being portrayed in the joke.
 
