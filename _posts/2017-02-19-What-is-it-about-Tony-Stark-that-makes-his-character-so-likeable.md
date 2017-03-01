@@ -45,4 +45,4 @@ That's why we find Tony Stark to be such a compelling character. He's well-writt
 
 --
 
-Source: ![Quora answer](https://www.quora.com/What-is-it-about-Tony-Stark-that-makes-his-character-so-likeable) by ![Howie Reith](https://www.quora.com/profile/Howie-Reith).
+Source: [Quora answer](https://www.quora.com/What-is-it-about-Tony-Stark-that-makes-his-character-so-likeable) by [Howie Reith](https://www.quora.com/profile/Howie-Reith).
