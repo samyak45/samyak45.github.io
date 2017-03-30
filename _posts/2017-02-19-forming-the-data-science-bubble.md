@@ -11,9 +11,13 @@ read_time : 10
 feature_image: 
 show_related_posts: false
 square_related: 
-description: "Tired of tolerating rebels? Sorry to say but you can't do without them."
+description: 
 published: false
 ---
+
+September 15, 2008; March 10, 2000; October 29, 1929; May 10, 1837 - dates that shudder the soul of any economist; dates highlighted in red in the <history> of <adj> economy crashes and bubble burst; dates when on a single day millions became jobless, companies bankrupt, and society went in a downward spiral recovering from which took years, often decades.
+
+
 
 Back in 2014 when I was in the first year of college, the terms "Machine Learning" and "Data Science" were quite unknown. I was one of the pioneers who started exploring this field of computer science in my batch. Getting guidance and finding people having similar interest was difficult.
 
@@ -38,3 +42,4 @@ All these cases follow a similar trajectory - eruption, frenzy, crash and turn, 
 Data science is in the frenzy phase. Crash will come. How it might come and what it might look like. Follows the golden age. So what should you do - if you are entering the field, be vary about a crash and be prepared. If you are someone like me who is willing to be patient, wait till the golden age (eg Google after the dot com bubble burst). 
 
 
+>Warning signs of this collapse were ignored because humans, even at the highest level, have an inbuilt tendency to follow what their peers are doing and to dismiss warnings that are outside the prevailing consensus. - John Bruton on 2008 global recession.

@@ -12,7 +12,7 @@ read_time : 3
 feature_image: iron-man-tony-stark
 show_related_posts: false
 square_related: tony-stark
-published: true
+published: false
 ---
 
 Tony Stark is a brilliant comic character. By that I don't mean comic as in comic book - I mean comic as in comedy, and yes, Tony Stark is a "comic" character.
