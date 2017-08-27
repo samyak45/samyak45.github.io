@@ -15,6 +15,10 @@ square_related:
 published: false
 ---
 
+
+We all have bright and colorful dreams as children, dreams that get buried under rocks of feasibility, external expectations, and reality as we grow up. As someone who has actively fights against accepting a life of mediocrity, promotes following your passions, and dreams of , I decided to commit my final year at IIT Roorkee to the cause of creating structures 
+
+
 Both initiatives spring from what has appalled me since last 4 years of college. In fact, since school life. Conformism in people, their relauctance in trying out new things and their not taking bold initiatives to solve problems.
 
 Enactus IIT Roorkee:
