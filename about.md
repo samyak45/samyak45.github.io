@@ -28,7 +28,7 @@ Contact me at <a href = "mailto:samyakchoudhary@gmail.com">samyakchoudhary@gmail
 
 Also find me here:
 <a href = "https://www.linkedin.com/in/samyakchoudhary/">LinkedIn</a>,
-<a href = "http://facebook.com/samyak.choudhary.355">Facebook</a>,
+<a href = "https://www.facebook.com/ambitiousalpha">Facebook</a>,
 <a href = "http://instagram.com/samyak.choudhary/">Instagram</a>, and 
 <a href = "https://www.quora.com/profile/Samyak-Choudhary">Quora</a>.
 
